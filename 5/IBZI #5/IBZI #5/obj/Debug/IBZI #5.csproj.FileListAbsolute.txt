@@ -1,0 +1,13 @@
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\bin\Debug\IBZI #5.exe.config
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\bin\Debug\IBZI #5.exe
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\bin\Debug\IBZI #5.pdb
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI__5.Form1.resources
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI__5.Properties.Resources.resources
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.csproj.GenerateResource.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.exe
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.pdb
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\bin\Debug\Crc32.NET.dll
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\bin\Debug\Crc32.NET.xml
+D:\Program Files (x86)\Универские работы\Информационная безопасность и защита информации\5\IBZI #5\IBZI #5\obj\Debug\IBZI #5.csproj.CopyComplete
